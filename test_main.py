@@ -8,7 +8,7 @@ import pytest
 import main
 
 SECRET = 'myjwtsecret'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NjEzMDY3OTAsIm5iZiI6MTU2MDA5NzE5MCwiZW1haWwiOiJ3b2xmQHRoZWRvb3IuY29tIn0.IpM4VMnqIgOoQeJxUbLT-cRcAjK41jronkVrqRLFmmk'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDM4MTc5OTQsIm5iZiI6MTYwMjYwODM5NCwiZW1haWwiOiJkYWxhYm95ZXZlQGdtYWlsLmNvbSJ9.9R3EjNNR27onjrY9jkn5nuriCf35bQGmeX41rZqnwck'
 EMAIL = 'dalaboyeve@gmail.com'
 PASSWORD = 'believer_0'
 
